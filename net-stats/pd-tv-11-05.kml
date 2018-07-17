@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"
+ xmlns:gx="http://www.google.com/kml/ext/2.2"
+ xmlns:kml="http://www.opengis.net/kml/2.2" 
+ xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+<name>Network Signal Info Pro</name>
+<description>
+Mobile Signal Tracker
+5/11/18
+16:07:47
+Note: KML data can be written only when their position is fixed.
+</description>
+
+<Style id="myLineStyle">
+	<LineStyle>
+		<color>ffffff00</color>
+		<width>3</width>
+	</LineStyle>
+</Style>
+
+<Placemark>
+	<name>#1 - CID: 4383</name>
+	<Style>
+		<IconStyle>
+			<color>ffaaff1f</color>
+			<scale>0.56</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>4383 / 10031391</value></Data>
+		<Data name="time:"><value>16:12:25</value></Data>
+		<Data name="Far from cell tower"><value>5161687 meter</value></Data>
+		<Data name="dBm"><value>-99</value></Data>
+		<Data name="Local Area Code - LAC"><value>22059</value></Data>
+		<Data name="Network"><value>LTE</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.38097752</value></Data>
+		<Data name="Longitude"><value>11.88802404</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>11.88802404,45.38097752</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>#2 - CID: 35359</name>
+	<Style>
+		<IconStyle>
+			<color>ffaaff1f</color>
+			<scale>0.52</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>35359 / 10127903</value></Data>
+		<Data name="time:"><value>16:21:42</value></Data>
+		<Data name="Far from cell tower"><value>5160892 meter</value></Data>
+		<Data name="dBm"><value>-102</value></Data>
+		<Data name="Local Area Code - LAC"><value>22059</value></Data>
+		<Data name="Network"><value>LTE</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.37069962</value></Data>
+		<Data name="Longitude"><value>11.90145825</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>11.90145825,45.37069962</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>11.88802404,45.38097752,0,11.90145825,45.37069962,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+<Placemark>
+	<name>#1 - CID: 35359</name>
+	<Style>
+		<IconStyle>
+			<color>ffaaff1f</color>
+			<scale>0.58</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>35359 / 10127903</value></Data>
+		<Data name="time:"><value>16:21:54</value></Data>
+		<Data name="Far from cell tower"><value>5161137 meter</value></Data>
+		<Data name="dBm"><value>-98</value></Data>
+		<Data name="Local Area Code - LAC"><value>22059</value></Data>
+		<Data name="Network"><value>LTE</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.37217558</value></Data>
+		<Data name="Longitude"><value>11.90538866</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>11.90538866,45.37217558</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>#2 - CID: 35359</name>
+	<Style>
+		<IconStyle>
+			<color>ff88ff1f</color>
+			<scale>0.7</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>35359 / 10127903</value></Data>
+		<Data name="time:"><value>16:21:58</value></Data>
+		<Data name="Far from cell tower"><value>5161230 meter</value></Data>
+		<Data name="dBm"><value>-90</value></Data>
+		<Data name="Local Area Code - LAC"><value>22059</value></Data>
+		<Data name="Network"><value>LTE</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.3728019</value></Data>
+		<Data name="Longitude"><value>11.90658299</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>11.90658299,45.3728019</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>11.90538866,45.37217558,0,11.90658299,45.3728019,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+<Placemark>
+	<name>#3 - CID: 35359</name>
+	<Style>
+		<IconStyle>
+			<color>ff88ff1f</color>
+			<scale>0.62</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>35359 / 10127903</value></Data>
+		<Data name="time:"><value>16:22:1</value></Data>
+		<Data name="Far from cell tower"><value>5161299 meter</value></Data>
+		<Data name="dBm"><value>-95</value></Data>
+		<Data name="Local Area Code - LAC"><value>22059</value></Data>
+		<Data name="Network"><value>LTE</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.3732983</value></Data>
+		<Data name="Longitude"><value>11.90731063</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>11.90731063,45.3732983</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>11.90658299,45.3728019,0,11.90731063,45.3732983,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+<Placemark>
+	<name>#4 - CID: 35359</name>
+	<Style>
+		<IconStyle>
+			<color>ffccff1f</color>
+			<scale>0.43</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>35359 / 10127903</value></Data>
+		<Data name="time:"><value>16:22:3</value></Data>
+		<Data name="Far from cell tower"><value>5161346 meter</value></Data>
+		<Data name="dBm"><value>-108</value></Data>
+		<Data name="Local Area Code - LAC"><value>22059</value></Data>
+		<Data name="Network"><value>LTE</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.37363935</value></Data>
+		<Data name="Longitude"><value>11.90778297</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>11.90778297,45.37363935</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>11.90731063,45.3732983,0,11.90778297,45.37363935,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+<Placemark>
+	<name>#5 - CID: 2457</name>
+	<Style>
+		<IconStyle>
+			<color>ff88ff1f</color>
+			<scale>0.66</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>2457 / 27199897</value></Data>
+		<Data name="time:"><value>16:32:34</value></Data>
+		<Data name="Far from cell tower"><value>5169547 meter</value></Data>
+		<Data name="dBm"><value>-81</value></Data>
+		<Data name="Local Area Code - LAC"><value>25021</value></Data>
+		<Data name="Network"><value>(DC)HSPA+ * 42.2 Mbps</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.43744739</value></Data>
+		<Data name="Longitude"><value>11.97059796</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>11.97059796,45.43744739</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>11.90778297,45.37363935,0,11.97059796,45.43744739,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+<Placemark>
+	<name>#6 - CID: 1277</name>
+	<Style>
+		<IconStyle>
+			<color>ffffff1f</color>
+			<scale>0.29</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>1277 / 27198717</value></Data>
+		<Data name="time:"><value>16:42:38</value></Data>
+		<Data name="Far from cell tower"><value>5176161 meter</value></Data>
+		<Data name="dBm"><value>-99</value></Data>
+		<Data name="Local Area Code - LAC"><value>25021</value></Data>
+		<Data name="Network"><value>(DC)HSPA+ * 42.2 Mbps</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.49198325</value></Data>
+		<Data name="Longitude"><value>12.00659105</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>12.00659105,45.49198325</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>11.97059796,45.43744739,0,12.00659105,45.49198325,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+<Placemark>
+	<name>#1 - CID: 11378</name>
+	<Style>
+		<IconStyle>
+			<color>ffccff1f</color>
+			<scale>0.41</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>11378 / 27405426</value></Data>
+		<Data name="time:"><value>16:42:54</value></Data>
+		<Data name="Far from cell tower"><value>5176351 meter</value></Data>
+		<Data name="dBm"><value>-93</value></Data>
+		<Data name="Local Area Code - LAC"><value>25031</value></Data>
+		<Data name="Network"><value>(DC)HSPA+ * 42.2 Mbps</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.49366117</value></Data>
+		<Data name="Longitude"><value>12.00710013</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>12.00710013,45.49366117</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>#1 - CID: 1259</name>
+	<Style>
+		<IconStyle>
+			<color>ffffff1f</color>
+			<scale>0.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>1259 / 27395307</value></Data>
+		<Data name="time:"><value>16:47:55</value></Data>
+		<Data name="Far from cell tower"><value>5179521 meter</value></Data>
+		<Data name="dBm"><value>-111</value></Data>
+		<Data name="Local Area Code - LAC"><value>25031</value></Data>
+		<Data name="Network"><value>(DC)HSPA+ * 42.2 Mbps</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.51759277</value></Data>
+		<Data name="Longitude"><value>12.03483073</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>12.03483073,45.51759277</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>#1 - CID: 11243</name>
+	<Style>
+		<IconStyle>
+			<color>ff22ff1f</color>
+			<scale>0.95</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>11243 / 27405291</value></Data>
+		<Data name="time:"><value>16:52:54</value></Data>
+		<Data name="Far from cell tower"><value>5183394 meter</value></Data>
+		<Data name="dBm"><value>-67</value></Data>
+		<Data name="Local Area Code - LAC"><value>25031</value></Data>
+		<Data name="Network"><value>(DC)HSPA+ * 42.2 Mbps</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.54636841</value></Data>
+		<Data name="Longitude"><value>12.07086476</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>12.07086476,45.54636841</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<name>#2 - CID: 11243</name>
+	<Style>
+		<IconStyle>
+			<color>ff66ff1f</color>
+			<scale>0.75</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>11243 / 27405291</value></Data>
+		<Data name="time:"><value>16:53:15</value></Data>
+		<Data name="Far from cell tower"><value>5183626 meter</value></Data>
+		<Data name="dBm"><value>-77</value></Data>
+		<Data name="Local Area Code - LAC"><value>25031</value></Data>
+		<Data name="Network"><value>(DC)HSPA+ * 42.2 Mbps</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.54842793</value></Data>
+		<Data name="Longitude"><value>12.07144375</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>12.07144375,45.54842793</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>12.07086476,45.54636841,0,12.07144375,45.54842793,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+<Placemark>
+	<name>#3 - CID: 1307</name>
+	<Style>
+		<IconStyle>
+			<color>ffeeff1f</color>
+			<scale>0.37</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
+			</Icon>
+			<hotSpot x="1.0" y="1.0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<ExtendedData>
+		<Data name="Cell ID:"><value>1307 / 27395355</value></Data>
+		<Data name="time:"><value>17:3:40</value></Data>
+		<Data name="Far from cell tower"><value>5188319 meter</value></Data>
+		<Data name="dBm"><value>-95</value></Data>
+		<Data name="Local Area Code - LAC"><value>25031</value></Data>
+		<Data name="Network"><value>(DC)HSPA+ * 42.2 Mbps</value></Data>
+		<Data name="Data state:"><value>Connected</value></Data>
+		<Data name="Latitude"><value>45.58121379</value></Data>
+		<Data name="Longitude"><value>12.12487974</value></Data>
+	</ExtendedData>
+	<Point>
+<extrude>1</extrude>
+		<altitudeMode>relativeToGround</altitudeMode>
+		<coordinates>12.12487974,45.58121379</coordinates>
+	</Point>
+</Placemark>
+
+<Placemark>
+	<LineString>
+		<coordinates>12.07144375,45.54842793,0,12.12487974,45.58121379,0</coordinates>
+	</LineString>
+	<Style>
+		<LineStyle>
+			<color>#ff00c0ff</color>
+			<width>3.0</width>
+		</LineStyle>
+	</Style>
+</Placemark>
+
+
+</Folder>
+</kml>
+

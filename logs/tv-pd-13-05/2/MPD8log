@@ -1,0 +1,600 @@
+May 13, 2018 6:44:28 PM DashPlayer play
+INFO: FESTIVE
+May 13, 2018 6:44:35 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2055235.0, "action": 7, "quality": 1.0, "buffer": 2.0, "rebuffering_time": 0.115, "reward": 1.0, "state": [1.0, 0.0, 0.0, 0.0, 0.0, 2055235.0, 4.0, 2.0]}
+May 13, 2018 6:44:35 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1934200.0, "action": 7, "quality": 1.0, "buffer": 3.88, "rebuffering_time": 0.0, "reward": 0.9340655999999999, "state": [1.0, 2055235.0, 2055235.0, 2055235.0, 2055235.0, 1934200.0, 4.0, 3.88]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2232308.0, "action": 7, "quality": 1.0, "buffer": 5.776, "rebuffering_time": 0.0, "reward": 0.961261824, "state": [1.0, 2055235.0, 2055235.0, 2055235.0, 1934200.0, 2232308.0, 0.0, 5.776]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2321280.0, "action": 7, "quality": 1.0, "buffer": 7.676, "rebuffering_time": 0.0, "reward": 0.981303024, "state": [1.0, 2055235.0, 2055235.0, 1934200.0, 2232308.0, 2321280.0, 3.0, 7.676]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2368816.0, "action": 7, "quality": 1.0, "buffer": 9.578, "rebuffering_time": 0.0, "reward": 0.994133916, "state": [1.0, 2055235.0, 1934200.0, 2232308.0, 2321280.0, 2368816.0, 3.0, 9.578]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2298614.0, "action": 7, "quality": 1.0, "buffer": 11.476999999999999, "rebuffering_time": 0.0, "reward": 0.999726471, "state": [1.0, 1934200.0, 2232308.0, 2321280.0, 2368816.0, 2298614.0, 1.0, 11.476999999999999]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2073857.0, "action": 7, "quality": 1.0, "buffer": 13.364999999999998, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2232308.0, 2321280.0, 2368816.0, 2298614.0, 2073857.0, 1.0, 13.364999999999998]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1919140.0, "action": 7, "quality": 1.0, "buffer": 15.243999999999998, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2321280.0, 2368816.0, 2298614.0, 2073857.0, 1919140.0, 1.0, 15.243999999999998]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2001379.0, "action": 7, "quality": 1.0, "buffer": 17.128, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2368816.0, 2298614.0, 2073857.0, 1919140.0, 2001379.0, 4.0, 17.128]}
+May 13, 2018 6:44:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2190038.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2298614.0, 2073857.0, 1919140.0, 2001379.0, 2190038.0, 4.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2001172.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2073857.0, 1919140.0, 2001379.0, 2190038.0, 2001172.0, 4.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2232692.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 1919140.0, 2001379.0, 2190038.0, 2001172.0, 2232692.0, 3.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2170692.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2001379.0, 2190038.0, 2001172.0, 2232692.0, 2170692.0, 1.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1985299.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2190038.0, 2001172.0, 2232692.0, 2170692.0, 1985299.0, 1.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2169944.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2001172.0, 2232692.0, 2170692.0, 1985299.0, 2169944.0, 1.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2369959.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2232692.0, 2170692.0, 1985299.0, 2169944.0, 2369959.0, 1.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2233231.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2170692.0, 1985299.0, 2169944.0, 2369959.0, 2233231.0, 1.0, 19.022]}
+May 13, 2018 6:44:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2254757.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 1985299.0, 2169944.0, 2369959.0, 2233231.0, 2254757.0, 1.0, 19.022]}
+May 13, 2018 6:44:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1935467.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2169944.0, 2369959.0, 2233231.0, 2254757.0, 1935467.0, 3.0, 19.022]}
+May 13, 2018 6:44:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 2073714.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2369959.0, 2233231.0, 2254757.0, 1935467.0, 2073714.0, 3.0, 19.022]}
+May 13, 2018 6:44:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1416244.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2233231.0, 2254757.0, 1935467.0, 2073714.0, 1416244.0, 3.0, 19.022]}
+May 13, 2018 6:44:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1828661.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 2254757.0, 1935467.0, 2073714.0, 1416244.0, 1828661.0, 3.0, 19.022]}
+May 13, 2018 6:44:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1918281.0, "action": 7, "quality": 1.0, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 1.0, "state": [1.0, 1935467.0, 2073714.0, 1416244.0, 1828661.0, 1918281.0, 3.0, 19.022]}
+May 13, 2018 6:44:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5710998.0, "action": 6, "quality": 0.943102895465, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 0.8293086863950001, "state": [0.943102895465, 2073714.0, 1416244.0, 1828661.0, 1918281.0, 5710998.0, 3.0, 19.022]}
+May 13, 2018 6:44:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5090168.0, "action": 6, "quality": 0.938813406344, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 0.930234428102, "state": [0.938813406344, 1416244.0, 1828661.0, 1918281.0, 5710998.0, 5090168.0, 1.0, 19.022]}
+May 13, 2018 6:44:40 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5470779.0, "action": 6, "quality": 0.945914112013, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 0.931712700675, "state": [0.945914112013, 1828661.0, 1918281.0, 5710998.0, 5090168.0, 5470779.0, 1.0, 19.022]}
+May 13, 2018 6:44:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5195669.0, "action": 6, "quality": 0.9459848567, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 0.945843367326, "state": [0.9459848567, 1918281.0, 5710998.0, 5090168.0, 5470779.0, 5195669.0, 1.0, 19.022]}
+May 13, 2018 6:44:42 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5183991.0, "action": 5, "quality": 0.919004278533, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 0.8650431221990001, "state": [0.919004278533, 5710998.0, 5090168.0, 5470779.0, 5195669.0, 5183991.0, 3.0, 19.022]}
+May 13, 2018 6:44:42 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6111896.0, "action": 5, "quality": 0.977718750469, "buffer": 19.022, "rebuffering_time": 0.0, "reward": 0.860289806597, "state": [0.977718750469, 5090168.0, 5470779.0, 5195669.0, 5183991.0, 6111896.0, 4.0, 19.022]}
+May 13, 2018 6:44:44 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4539738.0, "action": 5, "quality": 0.979142702493, "buffer": 19.983999999999998, "rebuffering_time": 0.0, "reward": 0.9762947984450001, "state": [0.979142702493, 5470779.0, 5195669.0, 5183991.0, 6111896.0, 4539738.0, 4.0, 19.983999999999998]}
+May 13, 2018 6:44:45 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4379420.0, "action": 5, "quality": 0.974258184346, "buffer": 19.983999999999998, "rebuffering_time": 0.0, "reward": 0.964489148052, "state": [0.974258184346, 5195669.0, 5183991.0, 6111896.0, 4539738.0, 4379420.0, 4.0, 19.983999999999998]}
+May 13, 2018 6:44:46 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4619796.0, "action": 5, "quality": 0.96701810842, "buffer": 19.983999999999998, "rebuffering_time": 0.0, "reward": 0.9525379565680001, "state": [0.96701810842, 5183991.0, 6111896.0, 4539738.0, 4379420.0, 4619796.0, 4.0, 19.983999999999998]}
+May 13, 2018 6:44:47 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5387427.0, "action": 4, "quality": 0.943704766827, "buffer": 19.983999999999998, "rebuffering_time": 0.0, "reward": 0.897078083641, "state": [0.943704766827, 6111896.0, 4539738.0, 4379420.0, 4619796.0, 5387427.0, 0.0, 19.983999999999998]}
+May 13, 2018 6:44:48 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5264729.0, "action": 4, "quality": 0.971527744345, "buffer": 19.983999999999998, "rebuffering_time": 0.0, "reward": 0.915881789309, "state": [0.971527744345, 4539738.0, 4379420.0, 4619796.0, 5387427.0, 5264729.0, 4.0, 19.983999999999998]}
+May 13, 2018 6:44:49 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6599693.0, "action": 4, "quality": 0.968360667699, "buffer": 19.983999999999998, "rebuffering_time": 0.0, "reward": 0.9620265144069999, "state": [0.968360667699, 4379420.0, 4619796.0, 5387427.0, 5264729.0, 6599693.0, 4.0, 19.983999999999998]}
+May 13, 2018 6:44:50 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5582507.0, "action": 4, "quality": 0.938056743793, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.877448895981, "state": [0.938056743793, 4619796.0, 5387427.0, 5264729.0, 6599693.0, 5582507.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:51 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6702725.0, "action": 4, "quality": 0.924716647617, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.8980364552650001, "state": [0.924716647617, 5387427.0, 5264729.0, 6599693.0, 5582507.0, 6702725.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:52 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6942605.0, "action": 4, "quality": 0.94418306485, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.905250230384, "state": [0.94418306485, 5264729.0, 6599693.0, 5582507.0, 6702725.0, 6942605.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:52 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4886462.0, "action": 3, "quality": 0.849342273024, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.659660689372, "state": [0.849342273024, 6599693.0, 5582507.0, 6702725.0, 6942605.0, 4886462.0, 3.0, 19.983999999999995]}
+May 13, 2018 6:44:52 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4647854.0, "action": 3, "quality": 0.893324666413, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.805359879635, "state": [0.893324666413, 5582507.0, 6702725.0, 6942605.0, 4886462.0, 4647854.0, 3.0, 19.983999999999995]}
+May 13, 2018 6:44:52 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5293278.0, "action": 3, "quality": 0.953870396478, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.832778936348, "state": [0.953870396478, 6702725.0, 6942605.0, 4886462.0, 4647854.0, 5293278.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:52 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4355794.0, "action": 3, "quality": 0.95340590372, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.952476918204, "state": [0.95340590372, 6942605.0, 4886462.0, 4647854.0, 5293278.0, 4355794.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:53 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4764250.0, "action": 3, "quality": 0.955161572409, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.951650235031, "state": [0.955161572409, 4886462.0, 4647854.0, 5293278.0, 4355794.0, 4764250.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:53 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4457731.0, "action": 3, "quality": 0.955575347407, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.954747797411, "state": [0.955575347407, 4647854.0, 5293278.0, 4355794.0, 4764250.0, 4457731.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:53 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4355931.0, "action": 3, "quality": 0.949025504962, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.935925820072, "state": [0.949025504962, 5293278.0, 4355794.0, 4764250.0, 4457731.0, 4355931.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7070864.0, "action": 2, "quality": 0.914883239383, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.8465987082249999, "state": [0.914883239383, 4355794.0, 4764250.0, 4457731.0, 4355931.0, 7070864.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8435158.0, "action": 2, "quality": 0.947906138533, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.881860340233, "state": [0.947906138533, 4764250.0, 4457731.0, 4355931.0, 7070864.0, 8435158.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:56 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7751856.0, "action": 2, "quality": 0.948758800196, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.94705347687, "state": [0.948758800196, 4457731.0, 4355931.0, 7070864.0, 8435158.0, 7751856.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:57 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8124815.0, "action": 2, "quality": 0.949724033249, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.947793567143, "state": [0.949724033249, 4355931.0, 7070864.0, 8435158.0, 7751856.0, 8124815.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:44:59 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7737926.0, "action": 2, "quality": 0.933530749876, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.9011441831300001, "state": [0.933530749876, 7070864.0, 8435158.0, 7751856.0, 8124815.0, 7737926.0, 0.0, 19.983999999999995]}
+May 13, 2018 6:45:00 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5741541.0, "action": 2, "quality": 0.825258143391, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.6087129304209999, "state": [0.825258143391, 8435158.0, 7751856.0, 8124815.0, 7737926.0, 5741541.0, 3.0, 19.983999999999995]}
+May 13, 2018 6:45:01 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6846035.0, "action": 2, "quality": 0.761870929405, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.635096501433, "state": [0.761870929405, 7751856.0, 8124815.0, 7737926.0, 5741541.0, 6846035.0, 1.0, 19.983999999999995]}
+May 13, 2018 6:45:02 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9142582.0, "action": 2, "quality": 0.978454517042, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.545287341768, "state": [0.978454517042, 8124815.0, 7737926.0, 5741541.0, 6846035.0, 9142582.0, 4.0, 19.983999999999995]}
+May 13, 2018 6:45:04 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7937345.0, "action": 1, "quality": 0.973069921651, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.962300730869, "state": [0.973069921651, 7737926.0, 5741541.0, 6846035.0, 9142582.0, 7937345.0, 4.0, 19.983999999999995]}
+May 13, 2018 6:45:05 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7506353.0, "action": 1, "quality": 0.970749831662, "buffer": 19.983999999999995, "rebuffering_time": 0.0, "reward": 0.966109651684, "state": [0.970749831662, 5741541.0, 6846035.0, 9142582.0, 7937345.0, 7506353.0, 4.0, 19.983999999999995]}
+May 13, 2018 6:45:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5066468.0, "action": 1, "quality": 0.969826670672, "buffer": 19.691999999999993, "rebuffering_time": 0.0, "reward": 0.967980348692, "state": [0.969826670672, 6846035.0, 9142582.0, 7937345.0, 7506353.0, 5066468.0, 4.0, 19.691999999999993]}
+May 13, 2018 6:45:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5948955.0, "action": 1, "quality": 0.834737710997, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.564559791647, "state": [0.834737710997, 9142582.0, 7937345.0, 7506353.0, 5066468.0, 5948955.0, 3.0, 19.739999999999995]}
+May 13, 2018 6:45:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7579880.0, "action": 1, "quality": 0.768074497908, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.6347480717299999, "state": [0.768074497908, 7937345.0, 7506353.0, 5066468.0, 5948955.0, 7579880.0, 1.0, 19.739999999999995]}
+May 13, 2018 6:45:13 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7420013.0, "action": 1, "quality": 0.796678900061, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.739470095755, "state": [0.796678900061, 7506353.0, 5066468.0, 5948955.0, 7579880.0, 7420013.0, 3.0, 19.739999999999995]}
+May 13, 2018 6:45:14 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8731056.0, "action": 1, "quality": 0.86670487729, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.7266529228319999, "state": [0.86670487729, 5066468.0, 5948955.0, 7579880.0, 7420013.0, 8731056.0, 3.0, 19.739999999999995]}
+May 13, 2018 6:45:16 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6945182.0, "action": 1, "quality": 0.877002666725, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.856407087855, "state": [0.877002666725, 5948955.0, 7579880.0, 7420013.0, 8731056.0, 6945182.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:17 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7349605.0, "action": 1, "quality": 0.897718198897, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.8562871345530001, "state": [0.897718198897, 7579880.0, 7420013.0, 8731056.0, 6945182.0, 7349605.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:19 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6727903.0, "action": 1, "quality": 0.906626953372, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.8888094444219999, "state": [0.906626953372, 7420013.0, 8731056.0, 6945182.0, 7349605.0, 6727903.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:20 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8810574.0, "action": 1, "quality": 0.885510887701, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.8432787563589997, "state": [0.885510887701, 8731056.0, 6945182.0, 7349605.0, 6727903.0, 8810574.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:21 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6197738.0, "action": 0, "quality": 0.870361499813, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.8400627240370002, "state": [0.870361499813, 6945182.0, 7349605.0, 6727903.0, 8810574.0, 6197738.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:21 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5793931.0, "action": 0, "quality": 0.874071152553, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.866651847073, "state": [0.874071152553, 7349605.0, 6727903.0, 8810574.0, 6197738.0, 5793931.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:21 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5539253.0, "action": 0, "quality": 0.866796598411, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.8522474901269999, "state": [0.866796598411, 6727903.0, 8810574.0, 6197738.0, 5793931.0, 5539253.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:22 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4154549.0, "action": 0, "quality": 0.862264342721, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.8531998313410002, "state": [0.862264342721, 8810574.0, 6197738.0, 5793931.0, 5539253.0, 4154549.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:23 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7217104.0, "action": 1, "quality": 0.873699409144, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.8508292762980001, "state": [0.873699409144, 6197738.0, 5793931.0, 5539253.0, 4154549.0, 7217104.0, 0.0, 19.739999999999995]}
+May 13, 2018 6:45:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7037755.0, "action": 1, "quality": 0.870910201383, "buffer": 19.739999999999995, "rebuffering_time": 0.0, "reward": 0.865331785861, "state": [0.870910201383, 5793931.0, 5539253.0, 4154549.0, 7217104.0, 7037755.0, 3.0, 19.739999999999995]}
+May 13, 2018 6:45:27 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6490933.0, "action": 1, "quality": 0.878695083676, "buffer": 19.950999999999993, "rebuffering_time": 0.0, "reward": 0.86312531909, "state": [0.878695083676, 5539253.0, 4154549.0, 7217104.0, 7037755.0, 6490933.0, 0.0, 19.950999999999993]}
+May 13, 2018 6:45:29 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4457701.0, "action": 1, "quality": 0.896838750046, "buffer": 19.345999999999993, "rebuffering_time": 0.0, "reward": 0.860551417306, "state": [0.896838750046, 4154549.0, 7217104.0, 7037755.0, 6490933.0, 4457701.0, 0.0, 19.345999999999993]}
+May 13, 2018 6:45:31 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6708446.0, "action": 1, "quality": 0.873802882082, "buffer": 19.61499999999999, "rebuffering_time": 0.0, "reward": 0.8277311461539999, "state": [0.873802882082, 7217104.0, 7037755.0, 6490933.0, 4457701.0, 6708446.0, 3.0, 19.61499999999999]}
+May 13, 2018 6:45:33 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6991191.0, "action": 1, "quality": 0.76388994513, "buffer": 19.95399999999999, "rebuffering_time": 0.0, "reward": 0.544064071226, "state": [0.76388994513, 7037755.0, 6490933.0, 4457701.0, 6708446.0, 6991191.0, 1.0, 19.95399999999999]}
+May 13, 2018 6:45:34 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7574899.0, "action": 1, "quality": 0.785421289834, "buffer": 19.95399999999999, "rebuffering_time": 0.0, "reward": 0.742358600426, "state": [0.785421289834, 6490933.0, 4457701.0, 6708446.0, 6991191.0, 7574899.0, 3.0, 19.95399999999999]}
+May 13, 2018 6:45:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6366417.0, "action": 1, "quality": 0.892845107404, "buffer": 19.95399999999999, "rebuffering_time": 0.0, "reward": 0.6779974722639999, "state": [0.892845107404, 4457701.0, 6708446.0, 6991191.0, 7574899.0, 6366417.0, 0.0, 19.95399999999999]}
+May 13, 2018 6:45:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6236481.0, "action": 1, "quality": 0.880610347926, "buffer": 19.953999999999994, "rebuffering_time": 0.0, "reward": 0.85614082897, "state": [0.880610347926, 6708446.0, 6991191.0, 7574899.0, 6366417.0, 6236481.0, 0.0, 19.953999999999994]}
+May 13, 2018 6:45:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8420838.0, "action": 1, "quality": 0.876872659647, "buffer": 19.953999999999994, "rebuffering_time": 0.0, "reward": 0.869397283089, "state": [0.876872659647, 6991191.0, 7574899.0, 6366417.0, 6236481.0, 8420838.0, 0.0, 19.953999999999994]}
+May 13, 2018 6:45:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9050937.0, "action": 1, "quality": 0.825385073451, "buffer": 19.953999999999994, "rebuffering_time": 0.0, "reward": 0.7224099010589999, "state": [0.825385073451, 7574899.0, 6366417.0, 6236481.0, 8420838.0, 9050937.0, 3.0, 19.953999999999994]}
+May 13, 2018 6:45:42 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7931951.0, "action": 1, "quality": 0.82836626969, "buffer": 19.953999999999994, "rebuffering_time": 0.0, "reward": 0.8224038772119999, "state": [0.82836626969, 6366417.0, 6236481.0, 8420838.0, 9050937.0, 7931951.0, 3.0, 19.953999999999994]}
+May 13, 2018 6:45:44 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8097863.0, "action": 1, "quality": 0.853496165646, "buffer": 19.953999999999994, "rebuffering_time": 0.0, "reward": 0.8032363737340001, "state": [0.853496165646, 6236481.0, 8420838.0, 9050937.0, 7931951.0, 8097863.0, 3.0, 19.953999999999994]}
+May 13, 2018 6:45:45 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7434274.0, "action": 1, "quality": 0.915089140843, "buffer": 19.953999999999994, "rebuffering_time": 0.0, "reward": 0.7919031904489999, "state": [0.915089140843, 8420838.0, 9050937.0, 7931951.0, 8097863.0, 7434274.0, 0.0, 19.953999999999994]}
+May 13, 2018 6:45:47 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7975505.0, "action": 1, "quality": 0.870883482819, "buffer": 19.953999999999994, "rebuffering_time": 0.0, "reward": 0.782472166771, "state": [0.870883482819, 9050937.0, 7931951.0, 8097863.0, 7434274.0, 7975505.0, 3.0, 19.953999999999994]}
+May 13, 2018 6:45:49 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5485279.0, "action": 1, "quality": 0.953411740958, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.78835522468, "state": [0.953411740958, 7931951.0, 8097863.0, 7434274.0, 7975505.0, 5485279.0, 4.0, 19.836999999999993]}
+May 13, 2018 6:45:50 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8241561.0, "action": 1, "quality": 0.900256625179, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.793946393621, "state": [0.900256625179, 8097863.0, 7434274.0, 7975505.0, 5485279.0, 8241561.0, 0.0, 19.836999999999993]}
+May 13, 2018 6:45:52 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8276801.0, "action": 1, "quality": 0.983307612475, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8172056378829999, "state": [0.983307612475, 7434274.0, 7975505.0, 5485279.0, 8241561.0, 8276801.0, 4.0, 19.836999999999993]}
+May 13, 2018 6:45:53 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9668883.0, "action": 1, "quality": 0.97833084823, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.9683773197400002, "state": [0.97833084823, 7975505.0, 5485279.0, 8241561.0, 8276801.0, 9668883.0, 4.0, 19.836999999999993]}
+May 13, 2018 6:45:53 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6002000.0, "action": 0, "quality": 0.972668814265, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.9613447463349998, "state": [0.972668814265, 5485279.0, 8241561.0, 8276801.0, 9668883.0, 6002000.0, 4.0, 19.836999999999993]}
+May 13, 2018 6:45:53 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5177973.0, "action": 0, "quality": 0.844573145441, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.5883818077930002, "state": [0.844573145441, 8241561.0, 8276801.0, 9668883.0, 6002000.0, 5177973.0, 3.0, 19.836999999999993]}
+May 13, 2018 6:45:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6632667.0, "action": 0, "quality": 0.868111101948, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8210351889340001, "state": [0.868111101948, 8276801.0, 9668883.0, 6002000.0, 5177973.0, 6632667.0, 0.0, 19.836999999999993]}
+May 13, 2018 6:45:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5953795.0, "action": 0, "quality": 0.844603713802, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.7975889375099998, "state": [0.844603713802, 9668883.0, 6002000.0, 5177973.0, 6632667.0, 5953795.0, 3.0, 19.836999999999993]}
+May 13, 2018 6:45:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7376859.0, "action": 0, "quality": 0.868730942503, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8204764851009999, "state": [0.868730942503, 6002000.0, 5177973.0, 6632667.0, 5953795.0, 7376859.0, 0.0, 19.836999999999993]}
+May 13, 2018 6:45:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6882126.0, "action": 0, "quality": 0.874097595994, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8633642890119999, "state": [0.874097595994, 5177973.0, 6632667.0, 5953795.0, 7376859.0, 6882126.0, 0.0, 19.836999999999993]}
+May 13, 2018 6:45:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5669030.0, "action": 0, "quality": 0.940577159823, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.807618032165, "state": [0.940577159823, 6632667.0, 5953795.0, 7376859.0, 6882126.0, 5669030.0, 4.0, 19.836999999999993]}
+May 13, 2018 6:45:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5977107.0, "action": 0, "quality": 0.903949892235, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8306953570589999, "state": [0.903949892235, 5953795.0, 7376859.0, 6882126.0, 5669030.0, 5977107.0, 0.0, 19.836999999999993]}
+May 13, 2018 6:45:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5907219.0, "action": 0, "quality": 0.867355277059, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.7941660467069999, "state": [0.867355277059, 7376859.0, 6882126.0, 5669030.0, 5977107.0, 5907219.0, 0.0, 19.836999999999993]}
+May 13, 2018 6:45:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5108811.0, "action": 0, "quality": 0.914921696365, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8197888577529999, "state": [0.914921696365, 6882126.0, 5669030.0, 5977107.0, 5907219.0, 5108811.0, 0.0, 19.836999999999993]}
+May 13, 2018 6:45:56 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0975758E7, "action": 1, "quality": 0.943471686489, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8863717062409999, "state": [0.943471686489, 5669030.0, 5977107.0, 5907219.0, 5108811.0, 1.0975758E7, 4.0, 19.836999999999993]}
+May 13, 2018 6:45:58 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0080153E7, "action": 1, "quality": 0.948280165283, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.9386632076950001, "state": [0.948280165283, 5977107.0, 5907219.0, 5108811.0, 1.0975758E7, 1.0080153E7, 4.0, 19.836999999999993]}
+May 13, 2018 6:45:59 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.2096175E7, "action": 1, "quality": 0.964020610668, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.9325397198979999, "state": [0.964020610668, 5907219.0, 5108811.0, 1.0975758E7, 1.0080153E7, 1.2096175E7, 4.0, 19.836999999999993]}
+May 13, 2018 6:46:00 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.1048822E7, "action": 1, "quality": 0.914374523419, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8150823489210001, "state": [0.914374523419, 5108811.0, 1.0975758E7, 1.0080153E7, 1.2096175E7, 1.1048822E7, 0.0, 19.836999999999993]}
+May 13, 2018 6:46:01 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.1946864E7, "action": 1, "quality": 0.903080220376, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.8804916142899999, "state": [0.903080220376, 1.0975758E7, 1.0080153E7, 1.2096175E7, 1.1048822E7, 1.1946864E7, 0.0, 19.836999999999993]}
+May 13, 2018 6:46:02 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.014182E7, "action": 1, "quality": 0.9434275909, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.862732849852, "state": [0.9434275909, 1.0080153E7, 1.2096175E7, 1.1048822E7, 1.1946864E7, 1.014182E7, 4.0, 19.836999999999993]}
+May 13, 2018 6:46:03 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0414673E7, "action": 1, "quality": 0.931276681362, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.9069748622860002, "state": [0.931276681362, 1.2096175E7, 1.1048822E7, 1.1946864E7, 1.014182E7, 1.0414673E7, 0.0, 19.836999999999993]}
+May 13, 2018 6:46:04 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.1006946E7, "action": 1, "quality": 0.931818806871, "buffer": 19.836999999999993, "rebuffering_time": 0.0, "reward": 0.930734555853, "state": [0.931818806871, 1.1048822E7, 1.1946864E7, 1.014182E7, 1.0414673E7, 1.1006946E7, 0.0, 19.836999999999993]}
+May 13, 2018 6:46:05 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0442727E7, "action": 1, "quality": 0.926452863239, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9157209759749999, "state": [0.926452863239, 1.1946864E7, 1.014182E7, 1.0414673E7, 1.1006946E7, 1.0442727E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:05 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6968737.0, "action": 0, "quality": 0.899364548103, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8451879178310001, "state": [0.899364548103, 1.014182E7, 1.0414673E7, 1.1006946E7, 1.0442727E7, 6968737.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:06 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6842534.0, "action": 0, "quality": 0.941354416457, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8573746797490001, "state": [0.941354416457, 1.0414673E7, 1.1006946E7, 1.0442727E7, 6968737.0, 6842534.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:06 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7066393.0, "action": 0, "quality": 0.927600961565, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9000940517810001, "state": [0.927600961565, 1.1006946E7, 1.0442727E7, 6968737.0, 6842534.0, 7066393.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:06 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6691150.0, "action": 0, "quality": 0.91329259363, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.88467585776, "state": [0.91329259363, 1.0442727E7, 6968737.0, 6842534.0, 7066393.0, 6691150.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:06 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7133094.0, "action": 0, "quality": 0.904030876207, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8855074413609998, "state": [0.904030876207, 6968737.0, 6842534.0, 7066393.0, 6691150.0, 7133094.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:06 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7523582.0, "action": 0, "quality": 0.83907977557, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7091775742960001, "state": [0.83907977557, 6842534.0, 7066393.0, 6691150.0, 7133094.0, 7523582.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6518483.0, "action": 0, "quality": 0.625572489764, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.19855791815200008, "state": [0.625572489764, 7066393.0, 6691150.0, 7133094.0, 7523582.0, 6518483.0, 2.0, 19.836999999999996]}
+May 13, 2018 6:46:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6435030.0, "action": 0, "quality": 0.889706832295, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.36143814723300005, "state": [0.889706832295, 6691150.0, 7133094.0, 7523582.0, 6518483.0, 6435030.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6000984.0, "action": 0, "quality": 0.91058602251, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8688276420800001, "state": [0.91058602251, 7133094.0, 7523582.0, 6518483.0, 6435030.0, 6000984.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6603808.0, "action": 0, "quality": 0.697466662577, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.2712279427109999, "state": [0.697466662577, 7523582.0, 6518483.0, 6435030.0, 6000984.0, 6603808.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7523582.0, "action": 0, "quality": 0.874221242907, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5207120822469999, "state": [0.874221242907, 6518483.0, 6435030.0, 6000984.0, 6603808.0, 7523582.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6632632.0, "action": 0, "quality": 0.941698750602, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8067437352119999, "state": [0.941698750602, 6435030.0, 6000984.0, 6603808.0, 7523582.0, 6632632.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7270423.0, "action": 0, "quality": 0.940117348076, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9369545430239999, "state": [0.940117348076, 6000984.0, 6603808.0, 7523582.0, 6632632.0, 7270423.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6490197.0, "action": 0, "quality": 0.940144746117, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.940089950035, "state": [0.940144746117, 6603808.0, 7523582.0, 6632632.0, 7270423.0, 6490197.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8218522.0, "action": 0, "quality": 0.936361722312, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9287956747019999, "state": [0.936361722312, 7523582.0, 6632632.0, 7270423.0, 6490197.0, 8218522.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8130409.0, "action": 0, "quality": 0.693874414982, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.20889980032199995, "state": [0.693874414982, 6632632.0, 7270423.0, 6490197.0, 8218522.0, 8130409.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8001354.0, "action": 0, "quality": 0.862231772412, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.525517057552, "state": [0.862231772412, 7270423.0, 6490197.0, 8218522.0, 8130409.0, 8001354.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6661921.0, "action": 0, "quality": 0.890247989945, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.834215554879, "state": [0.890247989945, 6490197.0, 8218522.0, 8130409.0, 8001354.0, 6661921.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7201067.0, "action": 0, "quality": 0.89973297703, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.88076300286, "state": [0.89973297703, 8218522.0, 8130409.0, 8001354.0, 6661921.0, 7201067.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8086802.0, "action": 0, "quality": 0.930620090877, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.868845863183, "state": [0.930620090877, 8130409.0, 8001354.0, 6661921.0, 7201067.0, 8086802.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7754913.0, "action": 0, "quality": 0.94577510147, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9154650802840001, "state": [0.94577510147, 8001354.0, 6661921.0, 7201067.0, 8086802.0, 7754913.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6632632.0, "action": 0, "quality": 0.8761413451, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7368738323599999, "state": [0.8761413451, 6661921.0, 7201067.0, 8086802.0, 7754913.0, 6632632.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6147415.0, "action": 0, "quality": 0.925349176356, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8269335138439999, "state": [0.925349176356, 7201067.0, 8086802.0, 7754913.0, 6632632.0, 6147415.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6172376.0, "action": 0, "quality": 0.869288059857, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7571658268589999, "state": [0.869288059857, 8086802.0, 7754913.0, 6632632.0, 6147415.0, 6172376.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6223210.0, "action": 0, "quality": 0.84234813757, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7884682929960002, "state": [0.84234813757, 7754913.0, 6632632.0, 6147415.0, 6172376.0, 6223210.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6905352.0, "action": 0, "quality": 0.946580635989, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7381156391510001, "state": [0.946580635989, 6632632.0, 6147415.0, 6172376.0, 6223210.0, 6905352.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6936881.0, "action": 0, "quality": 0.900868504687, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8094442420829999, "state": [0.900868504687, 6147415.0, 6172376.0, 6223210.0, 6905352.0, 6936881.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6407695.0, "action": 0, "quality": 0.912284008887, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8894530004869999, "state": [0.912284008887, 6172376.0, 6223210.0, 6905352.0, 6936881.0, 6407695.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:12 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5907156.0, "action": 0, "quality": 0.911785782917, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9107893309769999, "state": [0.911785782917, 6223210.0, 6905352.0, 6936881.0, 6407695.0, 5907156.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:12 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6024861.0, "action": 0, "quality": 0.782244212249, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.523161070913, "state": [0.782244212249, 6905352.0, 6936881.0, 6407695.0, 5907156.0, 6024861.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:12 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6842498.0, "action": 0, "quality": 0.747358604715, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6775873896470002, "state": [0.747358604715, 6936881.0, 6407695.0, 5907156.0, 6024861.0, 6842498.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:12 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5977233.0, "action": 0, "quality": 0.744318576878, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7382385212039998, "state": [0.744318576878, 6407695.0, 5907156.0, 6024861.0, 6842498.0, 5977233.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:14 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0358894E7, "action": 1, "quality": 0.962089165988, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5265479877679999, "state": [0.962089165988, 5907156.0, 6024861.0, 6842498.0, 5977233.0, 1.0358894E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:15 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9526143.0, "action": 1, "quality": 0.825945638832, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.55365858452, "state": [0.825945638832, 6024861.0, 6842498.0, 5977233.0, 1.0358894E7, 9526143.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:16 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0240141E7, "action": 1, "quality": 0.876373119625, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.775518158039, "state": [0.876373119625, 6842498.0, 5977233.0, 1.0358894E7, 9526143.0, 1.0240141E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:17 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0792126E7, "action": 1, "quality": 0.918299837742, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.834446401508, "state": [0.918299837742, 5977233.0, 1.0358894E7, 9526143.0, 1.0240141E7, 1.0792126E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:18 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9750099.0, "action": 1, "quality": 0.815069554299, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.608608987413, "state": [0.815069554299, 1.0358894E7, 9526143.0, 1.0240141E7, 1.0792126E7, 9750099.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:19 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0312931E7, "action": 1, "quality": 0.728440270422, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.555181702668, "state": [0.728440270422, 9526143.0, 1.0240141E7, 1.0792126E7, 9750099.0, 1.0312931E7, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:21 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0080153E7, "action": 1, "quality": 0.731025150484, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.72585539036, "state": [0.731025150484, 1.0240141E7, 1.0792126E7, 9750099.0, 1.0312931E7, 1.0080153E7, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:22 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9741899.0, "action": 1, "quality": 0.726959621216, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7188285626800001, "state": [0.726959621216, 1.0792126E7, 9750099.0, 1.0312931E7, 1.0080153E7, 9741899.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:23 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9275029.0, "action": 1, "quality": 0.929573758853, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.524345483579, "state": [0.929573758853, 9750099.0, 1.0312931E7, 1.0080153E7, 9741899.0, 9275029.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:23 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6905205.0, "action": 0, "quality": 0.929642510972, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9295050067339999, "state": [0.929642510972, 1.0312931E7, 1.0080153E7, 9741899.0, 9275029.0, 6905205.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5269129.0, "action": 0, "quality": 0.913928140591, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.882499399829, "state": [0.913928140591, 1.0080153E7, 9741899.0, 9275029.0, 6905205.0, 5269129.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6049120.0, "action": 0, "quality": 0.964883568654, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.862972712528, "state": [0.964883568654, 9741899.0, 9275029.0, 6905205.0, 5269129.0, 6049120.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7100056.0, "action": 0, "quality": 0.78202969385, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.41632194424199986, "state": [0.78202969385, 9275029.0, 6905205.0, 5269129.0, 6049120.0, 7100056.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4610537.0, "action": 0, "quality": 0.676422336395, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.46520762148500017, "state": [0.676422336395, 6905205.0, 5269129.0, 6049120.0, 7100056.0, 4610537.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4958243.0, "action": 0, "quality": 0.691432652554, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6614120202360001, "state": [0.691432652554, 5269129.0, 6049120.0, 7100056.0, 4610537.0, 4958243.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5663940.0, "action": 0, "quality": 0.797836280814, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5850290242939999, "state": [0.797836280814, 6049120.0, 7100056.0, 4610537.0, 4958243.0, 5663940.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6462632.0, "action": 0, "quality": 0.813844698666, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7818278629620001, "state": [0.813844698666, 7100056.0, 4610537.0, 4958243.0, 5663940.0, 6462632.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6223243.0, "action": 0, "quality": 0.828269140557, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.799420256775, "state": [0.828269140557, 4610537.0, 4958243.0, 5663940.0, 6462632.0, 6223243.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:26 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7201295.0, "action": 0, "quality": 0.826120289859, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.821822588463, "state": [0.826120289859, 4958243.0, 5663940.0, 6462632.0, 6223243.0, 7201295.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:26 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4785570.0, "action": 0, "quality": 0.928318784487, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.723921795231, "state": [0.928318784487, 5663940.0, 6462632.0, 6223243.0, 7201295.0, 4785570.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:26 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5580280.0, "action": 0, "quality": 0.888804393148, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8097756104699999, "state": [0.888804393148, 6462632.0, 6223243.0, 7201295.0, 4785570.0, 5580280.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:27 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4421754.0, "action": 0, "quality": 0.892616778942, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.884992007354, "state": [0.892616778942, 6223243.0, 7201295.0, 4785570.0, 5580280.0, 4421754.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:28 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0692751E7, "action": 1, "quality": 0.93672343867, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.848510119214, "state": [0.93672343867, 7201295.0, 4785570.0, 5580280.0, 4421754.0, 1.0692751E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:29 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0150678E7, "action": 1, "quality": 0.952869732292, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9205771450479999, "state": [0.952869732292, 4785570.0, 5580280.0, 4421754.0, 1.0692751E7, 1.0150678E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:30 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9165209.0, "action": 1, "quality": 0.880517657336, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7358135074239999, "state": [0.880517657336, 5580280.0, 4421754.0, 1.0692751E7, 1.0150678E7, 9165209.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:31 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0527971E7, "action": 1, "quality": 0.885421471296, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8756138433759999, "state": [0.885421471296, 4421754.0, 1.0692751E7, 1.0150678E7, 9165209.0, 1.0527971E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:33 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9502717.0, "action": 1, "quality": 0.923743351483, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.847099591109, "state": [0.923743351483, 1.0692751E7, 1.0150678E7, 9165209.0, 1.0527971E7, 9502717.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:34 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9036819.0, "action": 1, "quality": 0.929060947525, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.918425755441, "state": [0.929060947525, 1.0150678E7, 9165209.0, 1.0527971E7, 9502717.0, 9036819.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:35 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0368136E7, "action": 1, "quality": 0.939720032751, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.918401862299, "state": [0.939720032751, 9165209.0, 1.0527971E7, 9502717.0, 9036819.0, 1.0368136E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0792149E7, "action": 1, "quality": 0.939846840369, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.939593225133, "state": [0.939846840369, 1.0527971E7, 9502717.0, 9036819.0, 1.0368136E7, 1.0792149E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0762113E7, "action": 1, "quality": 0.964855895298, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.91483778544, "state": [0.964855895298, 9502717.0, 9036819.0, 1.0368136E7, 1.0792149E7, 1.0762113E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6661956.0, "action": 0, "quality": 0.940207699349, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8909113074509999, "state": [0.940207699349, 9036819.0, 1.0368136E7, 1.0792149E7, 1.0762113E7, 6661956.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7412980.0, "action": 0, "quality": 0.734894205678, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.32426721833600014, "state": [0.734894205678, 1.0368136E7, 1.0792149E7, 1.0762113E7, 6661956.0, 7412980.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5771786.0, "action": 0, "quality": 0.733668548488, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.731217234108, "state": [0.733668548488, 1.0792149E7, 1.0762113E7, 6661956.0, 7412980.0, 5771786.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7959074.0, "action": 0, "quality": 0.726990317664, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.713633856016, "state": [0.726990317664, 1.0762113E7, 6661956.0, 7412980.0, 5771786.0, 7959074.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7917403.0, "action": 0, "quality": 0.817439747451, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.636540887877, "state": [0.817439747451, 6661956.0, 7412980.0, 5771786.0, 7959074.0, 7917403.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7523502.0, "action": 0, "quality": 0.77731798634, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6970744641180001, "state": [0.77731798634, 7412980.0, 5771786.0, 7959074.0, 7917403.0, 7523502.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6490094.0, "action": 0, "quality": 0.756439210562, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.714681659006, "state": [0.756439210562, 5771786.0, 7959074.0, 7917403.0, 7523502.0, 6490094.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6661674.0, "action": 0, "quality": 0.768405583873, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7444728372510001, "state": [0.768405583873, 7959074.0, 7917403.0, 7523502.0, 6490094.0, 6661674.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5953701.0, "action": 0, "quality": 0.799881067611, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7369301001349999, "state": [0.799881067611, 7917403.0, 7523502.0, 6490094.0, 6661674.0, 5953701.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5750023.0, "action": 0, "quality": 0.729831861615, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5897334496230001, "state": [0.729831861615, 7523502.0, 6490094.0, 6661674.0, 5953701.0, 5750023.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:40 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6048864.0, "action": 0, "quality": 0.771858235466, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6878054877640001, "state": [0.771858235466, 6490094.0, 6661674.0, 5953701.0, 5750023.0, 6048864.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:40 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6172376.0, "action": 0, "quality": 0.765248324974, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.75202850399, "state": [0.765248324974, 6661674.0, 5953701.0, 5750023.0, 6048864.0, 6172376.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:40 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5287524.0, "action": 0, "quality": 0.71721298996, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6211423199320002, "state": [0.71721298996, 5953701.0, 5750023.0, 6048864.0, 6172376.0, 5287524.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6661568.0, "action": 0, "quality": 0.725597063771, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7088289161490001, "state": [0.725597063771, 5750023.0, 6048864.0, 6172376.0, 5287524.0, 6661568.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6000825.0, "action": 0, "quality": 0.74229935313, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.708894774412, "state": [0.74229935313, 6048864.0, 6172376.0, 5287524.0, 6661568.0, 6000825.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6574852.0, "action": 0, "quality": 0.737153450372, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.726861644856, "state": [0.737153450372, 6172376.0, 5287524.0, 6661568.0, 6000825.0, 6574852.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7235445.0, "action": 0, "quality": 0.759129946235, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.715176954509, "state": [0.759129946235, 5287524.0, 6661568.0, 6000825.0, 6574852.0, 7235445.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6248926.0, "action": 0, "quality": 0.839114042113, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6791458503569999, "state": [0.839114042113, 6661568.0, 6000825.0, 6574852.0, 7235445.0, 6248926.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:43 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8300477.0, "action": 1, "quality": 0.872671952532, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.805556131694, "state": [0.872671952532, 6000825.0, 6574852.0, 7235445.0, 6248926.0, 8300477.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:44 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9487190.0, "action": 1, "quality": 0.794497818309, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.638149549863, "state": [0.794497818309, 6574852.0, 7235445.0, 6248926.0, 8300477.0, 9487190.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:45 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0575905E7, "action": 1, "quality": 0.871252682519, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.717742954099, "state": [0.871252682519, 7235445.0, 6248926.0, 8300477.0, 9487190.0, 1.0575905E7, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:47 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8092237.0, "action": 1, "quality": 0.898053924374, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.844451440664, "state": [0.898053924374, 6248926.0, 8300477.0, 9487190.0, 1.0575905E7, 8092237.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:48 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9267658.0, "action": 1, "quality": 0.911990369363, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.884117479385, "state": [0.911990369363, 8300477.0, 9487190.0, 1.0575905E7, 8092237.0, 9267658.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:50 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6966018.0, "action": 1, "quality": 0.916872547456, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9071081912700001, "state": [0.916872547456, 9487190.0, 1.0575905E7, 8092237.0, 9267658.0, 6966018.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:51 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0036626E7, "action": 1, "quality": 0.922121214616, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9116238802959999, "state": [0.922121214616, 1.0575905E7, 8092237.0, 9267658.0, 6966018.0, 1.0036626E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:52 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9440937.0, "action": 1, "quality": 0.923540897618, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9207015316140001, "state": [0.923540897618, 8092237.0, 9267658.0, 6966018.0, 1.0036626E7, 9440937.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:53 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9165228.0, "action": 1, "quality": 0.947009394407, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9000724008289999, "state": [0.947009394407, 9267658.0, 6966018.0, 1.0036626E7, 9440937.0, 9165228.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6781489.0, "action": 0, "quality": 0.777099262818, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.43727899963999994, "state": [0.777099262818, 6966018.0, 1.0036626E7, 9440937.0, 9165228.0, 6781489.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6490438.0, "action": 0, "quality": 0.874616510943, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6795820146930001, "state": [0.874616510943, 1.0036626E7, 9440937.0, 9165228.0, 6781489.0, 6490438.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6750929.0, "action": 0, "quality": 0.954218857266, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.79501416462, "state": [0.954218857266, 9440937.0, 9165228.0, 6781489.0, 6490438.0, 6750929.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:54 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7413020.0, "action": 0, "quality": 0.910874964653, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.824187179427, "state": [0.910874964653, 9165228.0, 6781489.0, 6490438.0, 6750929.0, 7413020.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6327431.0, "action": 0, "quality": 0.968844927526, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.85290500178, "state": [0.968844927526, 6781489.0, 6490438.0, 6750929.0, 7413020.0, 6327431.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6172180.0, "action": 0, "quality": 0.982062242573, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9556276124790001, "state": [0.982062242573, 6490438.0, 6750929.0, 7413020.0, 6327431.0, 6172180.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 4740589.0, "action": 0, "quality": 0.829454687016, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.524239575902, "state": [0.829454687016, 6750929.0, 7413020.0, 6327431.0, 6172180.0, 4740589.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:55 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5601096.0, "action": 0, "quality": 0.736219191641, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5497482008910001, "state": [0.736219191641, 7413020.0, 6327431.0, 6172180.0, 4740589.0, 5601096.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:46:56 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5749992.0, "action": 0, "quality": 0.960412922696, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5120254605860001, "state": [0.960412922696, 6327431.0, 6172180.0, 4740589.0, 5601096.0, 5749992.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:56 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5287608.0, "action": 0, "quality": 0.915478821312, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.825610618544, "state": [0.915478821312, 6172180.0, 4740589.0, 5601096.0, 5749992.0, 5287608.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:56 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5794268.0, "action": 0, "quality": 0.894995132434, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.854027754678, "state": [0.894995132434, 4740589.0, 5601096.0, 5749992.0, 5287608.0, 5794268.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:56 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6073382.0, "action": 0, "quality": 0.952501555859, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.837488709009, "state": [0.952501555859, 5601096.0, 5749992.0, 5287608.0, 5794268.0, 6073382.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:46:57 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6661850.0, "action": 0, "quality": 0.895891775145, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7826722137169999, "state": [0.895891775145, 5749992.0, 5287608.0, 5794268.0, 6073382.0, 6661850.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:57 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6873964.0, "action": 0, "quality": 0.893136097874, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8876247433319999, "state": [0.893136097874, 5287608.0, 5794268.0, 6073382.0, 6661850.0, 6873964.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:46:58 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9342217.0, "action": 1, "quality": 0.833994848544, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.715712349884, "state": [0.833994848544, 5794268.0, 6073382.0, 6661850.0, 6873964.0, 9342217.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:46:59 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0442712E7, "action": 1, "quality": 0.669383001232, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.3401593066080001, "state": [0.669383001232, 6073382.0, 6661850.0, 6873964.0, 9342217.0, 1.0442712E7, 1.0, 19.836999999999996]}
+May 13, 2018 6:47:01 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9533970.0, "action": 1, "quality": 0.925487507116, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.413278495348, "state": [0.925487507116, 6661850.0, 6873964.0, 9342217.0, 1.0442712E7, 9533970.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:02 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0556705E7, "action": 1, "quality": 0.84257912911, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6767623730979999, "state": [0.84257912911, 6873964.0, 9342217.0, 1.0442712E7, 9533970.0, 1.0556705E7, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:03 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.2845522E7, "action": 1, "quality": 0.96204629302, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7231119652, "state": [0.96204629302, 9342217.0, 1.0442712E7, 9533970.0, 1.0556705E7, 1.2845522E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:03 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.2622104E7, "action": 1, "quality": 0.84921947264, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6235658318799999, "state": [0.84921947264, 1.0442712E7, 9533970.0, 1.0556705E7, 1.2845522E7, 1.2622104E7, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:04 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.2134052E7, "action": 1, "quality": 0.78639790248, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.66075476216, "state": [0.78639790248, 9533970.0, 1.0556705E7, 1.2845522E7, 1.2622104E7, 1.2134052E7, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:05 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.2301246E7, "action": 1, "quality": 0.954769038007, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.618026766953, "state": [0.954769038007, 1.0556705E7, 1.2845522E7, 1.2622104E7, 1.2134052E7, 1.2301246E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:06 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.1429465E7, "action": 1, "quality": 0.939745810783, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9096993563350001, "state": [0.939745810783, 1.2845522E7, 1.2622104E7, 1.2134052E7, 1.2301246E7, 1.1429465E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6223243.0, "action": 0, "quality": 0.955119870244, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.924371751322, "state": [0.955119870244, 1.2622104E7, 1.2134052E7, 1.2301246E7, 1.1429465E7, 6223243.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7235751.0, "action": 0, "quality": 0.952044084876, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.94589251414, "state": [0.952044084876, 1.2134052E7, 1.2301246E7, 1.1429465E7, 6223243.0, 7235751.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7413059.0, "action": 0, "quality": 0.8309764137, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5888410713479999, "state": [0.8309764137, 1.2301246E7, 1.1429465E7, 6223243.0, 7235751.0, 7413059.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:07 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6073221.0, "action": 0, "quality": 0.904126362573, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7578264648269999, "state": [0.904126362573, 1.1429465E7, 6223243.0, 7235751.0, 7413059.0, 6073221.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6172473.0, "action": 0, "quality": 0.886226544307, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8504269077749999, "state": [0.886226544307, 6223243.0, 7235751.0, 7413059.0, 6073221.0, 6172473.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7201181.0, "action": 0, "quality": 0.881421374514, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8718110349280002, "state": [0.881421374514, 7235751.0, 7413059.0, 6073221.0, 6172473.0, 7201181.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6024892.0, "action": 0, "quality": 0.875961905008, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8650429659959998, "state": [0.875961905008, 7413059.0, 6073221.0, 6172473.0, 7201181.0, 6024892.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:08 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5930039.0, "action": 0, "quality": 0.932508061433, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8194157485829999, "state": [0.932508061433, 6073221.0, 6172473.0, 7201181.0, 6024892.0, 5930039.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6842715.0, "action": 0, "quality": 0.936326938521, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.928689184345, "state": [0.936326938521, 6172473.0, 7201181.0, 6024892.0, 5930039.0, 6842715.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7412784.0, "action": 0, "quality": 0.940088262477, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9325656145650001, "state": [0.940088262477, 7201181.0, 6024892.0, 5930039.0, 6842715.0, 7412784.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6691009.0, "action": 0, "quality": 0.95061001499, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9295665099639999, "state": [0.95061001499, 6024892.0, 5930039.0, 6842715.0, 7412784.0, 6691009.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:09 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6575096.0, "action": 0, "quality": 0.976574653264, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.924645376716, "state": [0.976574653264, 5930039.0, 6842715.0, 7412784.0, 6691009.0, 6575096.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6122429.0, "action": 0, "quality": 0.781339756443, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.39086996280100017, "state": [0.781339756443, 6842715.0, 7412784.0, 6691009.0, 6575096.0, 6122429.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6172376.0, "action": 0, "quality": 0.756983343452, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.70827051747, "state": [0.756983343452, 7412784.0, 6691009.0, 6575096.0, 6122429.0, 6172376.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:47:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6811532.0, "action": 0, "quality": 0.85443937776, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.659527309144, "state": [0.85443937776, 6691009.0, 6575096.0, 6122429.0, 6172376.0, 6811532.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:10 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6147057.0, "action": 0, "quality": 0.863665143519, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.845213612001, "state": [0.863665143519, 6575096.0, 6122429.0, 6172376.0, 6811532.0, 6147057.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5539341.0, "action": 0, "quality": 0.878587834686, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8487424523520001, "state": [0.878587834686, 6122429.0, 6172376.0, 6811532.0, 6147057.0, 5539341.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:11 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6603843.0, "action": 0, "quality": 0.911365909923, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8458097594489999, "state": [0.911365909923, 6172376.0, 6811532.0, 6147057.0, 5539341.0, 6603843.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:12 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0115296E7, "action": 1, "quality": 0.931075532777, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8916562870690001, "state": [0.931075532777, 6811532.0, 6147057.0, 5539341.0, 6603843.0, 1.0115296E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:13 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0159538E7, "action": 1, "quality": 0.934385073493, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9277659920609999, "state": [0.934385073493, 6147057.0, 5539341.0, 6603843.0, 1.0115296E7, 1.0159538E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:14 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9565351.0, "action": 1, "quality": 0.937802814094, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9309673328920001, "state": [0.937802814094, 5539341.0, 6603843.0, 1.0115296E7, 1.0159538E7, 9565351.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:16 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9660852.0, "action": 1, "quality": 0.929159651307, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9118733257329998, "state": [0.929159651307, 6603843.0, 1.0115296E7, 1.0159538E7, 9565351.0, 9660852.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:17 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0634007E7, "action": 1, "quality": 0.976167433193, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8821518694209999, "state": [0.976167433193, 1.0115296E7, 1.0159538E7, 9565351.0, 9660852.0, 1.0634007E7, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:18 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 9479491.0, "action": 1, "quality": 0.919507566328, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.806187832598, "state": [0.919507566328, 1.0159538E7, 9565351.0, 9660852.0, 1.0634007E7, 9479491.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:19 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8445347.0, "action": 1, "quality": 0.918587908454, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9167485927059998, "state": [0.918587908454, 9565351.0, 9660852.0, 1.0634007E7, 9479491.0, 8445347.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:21 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8731086.0, "action": 1, "quality": 0.959909553577, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8772662633309999, "state": [0.959909553577, 9660852.0, 1.0634007E7, 9479491.0, 8445347.0, 8731086.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:22 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8939424.0, "action": 1, "quality": 0.948711151235, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9263143465510001, "state": [0.948711151235, 1.0634007E7, 9479491.0, 8445347.0, 8731086.0, 8939424.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:22 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6122462.0, "action": 0, "quality": 0.925900479447, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.880279135871, "state": [0.925900479447, 9479491.0, 8445347.0, 8731086.0, 8939424.0, 6122462.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:22 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5439712.0, "action": 0, "quality": 0.969459796877, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8823411620170001, "state": [0.969459796877, 8445347.0, 8731086.0, 8939424.0, 6122462.0, 5439712.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:23 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6811748.0, "action": 0, "quality": 0.973245312683, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9656742810710001, "state": [0.973245312683, 8731086.0, 8939424.0, 6122462.0, 5439712.0, 6811748.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:23 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6222848.0, "action": 0, "quality": 0.946740777577, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8937317073650002, "state": [0.946740777577, 8939424.0, 6122462.0, 5439712.0, 6811748.0, 6222848.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:23 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5953512.0, "action": 0, "quality": 0.91551420117, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.853061048356, "state": [0.91551420117, 6122462.0, 5439712.0, 6811748.0, 6222848.0, 5953512.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:23 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7875833.0, "action": 0, "quality": 0.896274571129, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8577953110469999, "state": [0.896274571129, 5439712.0, 6811748.0, 6222848.0, 5953512.0, 7875833.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5706415.0, "action": 0, "quality": 0.884398449758, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8606462070159999, "state": [0.884398449758, 6811748.0, 6222848.0, 5953512.0, 7875833.0, 5706415.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7794969.0, "action": 0, "quality": 0.883701381576, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.882307245212, "state": [0.883701381576, 6222848.0, 5953512.0, 7875833.0, 5706415.0, 7794969.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7166749.0, "action": 0, "quality": 0.894540051817, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8728627113349999, "state": [0.894540051817, 5953512.0, 7875833.0, 5706415.0, 7794969.0, 7166749.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:24 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6248727.0, "action": 0, "quality": 0.893734188957, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8921224632369998, "state": [0.893734188957, 7875833.0, 5706415.0, 7794969.0, 7166749.0, 6248727.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7523303.0, "action": 0, "quality": 0.904410831679, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8830575462349999, "state": [0.904410831679, 5706415.0, 7794969.0, 7166749.0, 6248727.0, 7523303.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7676102.0, "action": 0, "quality": 0.912268036876, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8965536264820001, "state": [0.912268036876, 7794969.0, 7166749.0, 6248727.0, 7523303.0, 7676102.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7794763.0, "action": 0, "quality": 0.919099583627, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.905436490125, "state": [0.919099583627, 7166749.0, 6248727.0, 7523303.0, 7676102.0, 7794763.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6223012.0, "action": 0, "quality": 0.916212059032, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.910437009842, "state": [0.916212059032, 6248727.0, 7523303.0, 7676102.0, 7794763.0, 6223012.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:25 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7917319.0, "action": 0, "quality": 0.911452742495, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9019341094209999, "state": [0.911452742495, 7523303.0, 7676102.0, 7794763.0, 6223012.0, 7917319.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:26 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7166863.0, "action": 0, "quality": 0.914802953047, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.908102531943, "state": [0.914802953047, 7676102.0, 7794763.0, 6223012.0, 7917319.0, 7166863.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:26 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6327163.0, "action": 0, "quality": 0.916148962707, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.913456943387, "state": [0.916148962707, 7794763.0, 6223012.0, 7917319.0, 7166863.0, 6327163.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:26 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7835192.0, "action": 0, "quality": 0.906742136378, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8879284837200002, "state": [0.906742136378, 6223012.0, 7917319.0, 7166863.0, 6327163.0, 7835192.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:26 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7133057.0, "action": 0, "quality": 0.916414555494, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.8970697172620001, "state": [0.916414555494, 7917319.0, 7166863.0, 6327163.0, 7835192.0, 7133057.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:27 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6691150.0, "action": 0, "quality": 0.924918864079, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9079102469089999, "state": [0.924918864079, 7166863.0, 6327163.0, 7835192.0, 7133057.0, 6691150.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:28 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.11657E7, "action": 1, "quality": 0.901409125989, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.854389649809, "state": [0.901409125989, 6327163.0, 7835192.0, 7133057.0, 6691150.0, 1.11657E7, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:29 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0782084E7, "action": 1, "quality": 0.839951522591, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.717036315795, "state": [0.839951522591, 7835192.0, 7133057.0, 6691150.0, 1.11657E7, 1.0782084E7, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:30 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0088911E7, "action": 1, "quality": 0.757476259378, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.592525732952, "state": [0.757476259378, 7133057.0, 6691150.0, 1.11657E7, 1.0782084E7, 1.0088911E7, 1.0, 19.836999999999996]}
+May 13, 2018 6:47:31 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0852643E7, "action": 1, "quality": 0.627522635496, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.36761538773199987, "state": [0.627522635496, 6691150.0, 1.11657E7, 1.0782084E7, 1.0088911E7, 1.0852643E7, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:32 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0752156E7, "action": 1, "quality": 0.589179755013, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5124939940470001, "state": [0.589179755013, 1.11657E7, 1.0782084E7, 1.0088911E7, 1.0852643E7, 1.0752156E7, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:33 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0556669E7, "action": 1, "quality": 0.598411595959, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5799479140670001, "state": [0.598411595959, 1.0782084E7, 1.0088911E7, 1.0852643E7, 1.0752156E7, 1.0556669E7, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:34 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.0792112E7, "action": 1, "quality": 0.589796309908, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5725657378060002, "state": [0.589796309908, 1.0088911E7, 1.0852643E7, 1.0752156E7, 1.0556669E7, 1.0792112E7, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:35 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.1133584E7, "action": 1, "quality": 0.598566229022, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5810263907940001, "state": [0.598566229022, 1.0852643E7, 1.0752156E7, 1.0556669E7, 1.0792112E7, 1.1133584E7, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:36 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 1.1296039E7, "action": 1, "quality": 0.577602502679, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5356750499930002, "state": [0.577602502679, 1.0752156E7, 1.0556669E7, 1.0792112E7, 1.1133584E7, 1.1296039E7, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7133472.0, "action": 0, "quality": 0.566030881451, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.5428876389949999, "state": [0.566030881451, 1.0556669E7, 1.0792112E7, 1.1133584E7, 1.1296039E7, 7133472.0, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7561160.0, "action": 0, "quality": 0.615644761486, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.516417001416, "state": [0.615644761486, 1.0792112E7, 1.1133584E7, 1.1296039E7, 7133472.0, 7561160.0, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7917445.0, "action": 0, "quality": 0.639890058563, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.591399464409, "state": [0.639890058563, 1.1133584E7, 1.1296039E7, 7133472.0, 7561160.0, 7917445.0, 2.0, 19.836999999999996]}
+May 13, 2018 6:47:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7715755.0, "action": 0, "quality": 0.661225178939, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.6185549381869999, "state": [0.661225178939, 1.1296039E7, 7133472.0, 7561160.0, 7917445.0, 7715755.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:47:37 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5907375.0, "action": 0, "quality": 0.673862912749, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.648587445129, "state": [0.673862912749, 7133472.0, 7561160.0, 7917445.0, 7715755.0, 5907375.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:47:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6603843.0, "action": 0, "quality": 0.716187692384, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.631538133114, "state": [0.716187692384, 7561160.0, 7917445.0, 7715755.0, 5907375.0, 6603843.0, 1.0, 19.836999999999996]}
+May 13, 2018 6:47:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7305855.0, "action": 0, "quality": 0.797000623529, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.635374761239, "state": [0.797000623529, 7917445.0, 7715755.0, 5907375.0, 6603843.0, 7305855.0, 3.0, 19.836999999999996]}
+May 13, 2018 6:47:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5861674.0, "action": 0, "quality": 0.873862714239, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.7201385328190001, "state": [0.873862714239, 7715755.0, 5907375.0, 6603843.0, 7305855.0, 5861674.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:38 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5143918.0, "action": 0, "quality": 0.921195375529, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.826530052949, "state": [0.921195375529, 5907375.0, 6603843.0, 7305855.0, 5861674.0, 5143918.0, 0.0, 19.836999999999996]}
+May 13, 2018 6:47:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6354185.0, "action": 0, "quality": 0.951273795581, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.891116955477, "state": [0.951273795581, 6603843.0, 7305855.0, 5861674.0, 5143918.0, 6354185.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6380861.0, "action": 0, "quality": 0.954270054024, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.948277537138, "state": [0.954270054024, 7305855.0, 5861674.0, 5143918.0, 6354185.0, 6380861.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5930416.0, "action": 0, "quality": 0.94915952743, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9389384742419999, "state": [0.94915952743, 5861674.0, 5143918.0, 6354185.0, 6380861.0, 5930416.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:39 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5930510.0, "action": 0, "quality": 0.954373433366, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.943945621494, "state": [0.954373433366, 5143918.0, 6354185.0, 6380861.0, 5930416.0, 5930510.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:40 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5728394.0, "action": 0, "quality": 0.952419456244, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9485115020000001, "state": [0.952419456244, 6354185.0, 6380861.0, 5930416.0, 5930510.0, 5728394.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:40 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5074658.0, "action": 0, "quality": 0.953895097557, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9509438149310001, "state": [0.953895097557, 6380861.0, 5930416.0, 5930510.0, 5728394.0, 5074658.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:40 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5499258.0, "action": 0, "quality": 0.990518294201, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9172719009129999, "state": [0.990518294201, 5930416.0, 5930510.0, 5728394.0, 5074658.0, 5499258.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:41 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 5143565.0, "action": 0, "quality": 0.9787078921, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9550870878979999, "state": [0.9787078921, 5930510.0, 5728394.0, 5074658.0, 5499258.0, 5143565.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:42 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8041778.0, "action": 1, "quality": 0.98181779438, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9755979898199999, "state": [0.98181779438, 5728394.0, 5074658.0, 5499258.0, 5143565.0, 8041778.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:44 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7226091.0, "action": 1, "quality": 0.985669939668, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9779656490920001, "state": [0.985669939668, 5074658.0, 5499258.0, 5143565.0, 8041778.0, 7226091.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:45 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7253172.0, "action": 1, "quality": 0.979276672843, "buffer": 19.836999999999996, "rebuffering_time": 0.0, "reward": 0.9664901391930001, "state": [0.979276672843, 5499258.0, 5143565.0, 8041778.0, 7226091.0, 7253172.0, 4.0, 19.836999999999996]}
+May 13, 2018 6:47:47 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6095710.0, "action": 1, "quality": 0.972497819515, "buffer": 19.931999999999995, "rebuffering_time": 0.0, "reward": 0.958940112859, "state": [0.972497819515, 5143565.0, 8041778.0, 7226091.0, 7253172.0, 6095710.0, 4.0, 19.931999999999995]}
+May 13, 2018 6:47:49 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 7396387.0, "action": 1, "quality": 0.972019574162, "buffer": 19.931999999999995, "rebuffering_time": 0.0, "reward": 0.971063083456, "state": [0.972019574162, 8041778.0, 7226091.0, 7253172.0, 6095710.0, 7396387.0, 4.0, 19.931999999999995]}
+May 13, 2018 6:47:50 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 8513449.0, "action": 1, "quality": 0.974337328233, "buffer": 19.931999999999995, "rebuffering_time": 0.0, "reward": 0.969701820091, "state": [0.974337328233, 7226091.0, 7253172.0, 6095710.0, 7396387.0, 8513449.0, 4.0, 19.931999999999995]}
+May 13, 2018 6:47:51 PM MarkovDecisionProcess computeNextState
+INFO: {"capacity": 6771107.0, "action": 1, "quality": 0.976777932133, "buffer": 19.931999999999995, "rebuffering_time": 0.0, "reward": 0.971896724333, "state": [0.976777932133, 7253172.0, 6095710.0, 7396387.0, 8513449.0, 6771107.0, 4.0, 19.931999999999995]}
